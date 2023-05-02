@@ -28,8 +28,8 @@ rm -rf work-with-api
 ### Screenshots
 **[Web preview](https://dreu007.github.io/work-with-api/ "GitHub Pages")**
 
-<iframe src="https://dreu007.github.io/work-with-api/examples/python_repos.html" width="100%" height="500"></iframe>
+<iframe src="https://dreu007.github.io/work-with-api/examples/python_repos.html" width="100%" height="1000"></iframe>
 
-<iframe src="https://dreu007.github.io/work-with-api/examples/github_repos.html" width="100%" height="500"></iframe>
+<iframe src="https://dreu007.github.io/work-with-api/examples/github_repos.html" width="100%" height="1000"></iframe>
 
-<iframe src="https://dreu007.github.io/work-with-api/examples/hn_active_comments.html" width="100%" height="500"></iframe>
+<iframe src="https://dreu007.github.io/work-with-api/examples/hn_active_comments.html" width="100%" height="1000"></iframe>
