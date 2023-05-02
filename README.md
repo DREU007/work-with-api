@@ -1,5 +1,6 @@
 ### Status
-[![Actions Status](https://github.com/DREU007/work-with-api/actions/workflows/pyci.yml/badge.svg)](https://github.com/DREU007/work-with-api/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/77b1fba35054da780593/maintainability)](https://codeclimate.com/github/DREU007/work-with-api/maintainability)
+[![Python CI](https://github.com/DREU007/work-with-api/actions/workflows/pyci.yml/badge.svg)](https://github.com/DREU007/work-with-api/actions/workflows/pyci.yml) [![Maintainability](https://api.codeclimate.com/v1/badges/77b1fba35054da780593/maintainability)](https://codeclimate.com/github/DREU007/work-with-api/maintainability)
+
 ### Description
 **[Work with API](https://github.com/DREU007/work-with-api "GitHub")** - A collection of exercises to practice in visualizing API requests from GitHub and HackerNews. Based on Python Crash Course exercises.
 
