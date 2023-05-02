@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+/dist/
+.idea/
+.pytest_cache
+alien_invasion/high_score.json
